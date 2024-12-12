@@ -11,10 +11,9 @@ public class CollectAmount {
         return "Myson gave the Amount to me";
     }
 
-    public static void main(String args[]) {
-        CollectAmount myson = new CollectAmount();
-
-        String isHeReturn = myson.setAmountCollected();
+    public static void main(String[] args) {
+        CollectAmount mySon = new CollectAmount();
+        String isHeReturn = mySon.setAmountCollected();
         System.out.println(isHeReturn);
 
 
