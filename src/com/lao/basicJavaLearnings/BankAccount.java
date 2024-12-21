@@ -8,7 +8,7 @@ public class BankAccount {
     Integer accountBalance = 100;
 
     public void printDetails(){
-        System.out.println("Your name is: " + accounterName + " , " + "Your bank balance is: " + accountBalance);
+        System.out.println("Your name is: " + accounterName + " , " + "Your bank balance rupees is: " + accountBalance);
     }
     public static void main(String args[]){
         BankAccount bankAccount = new BankAccount();
