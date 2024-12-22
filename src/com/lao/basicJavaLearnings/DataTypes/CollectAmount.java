@@ -1,4 +1,4 @@
-package com.lao.basicJavaLearnings;
+package com.lao.basicJavaLearnings.DataTypes;
 
 //In this class, we learned return type
 public class CollectAmount {

@@ -1,4 +1,4 @@
-package com.lao.basicJavaLearnings;
+package com.lao.basicJavaLearnings.DataTypes;
 
 // In this class, we covered Data type, Objects,  and wrapper class.
 
