@@ -22,7 +22,6 @@ public class TryCatchFinallyExample {
         } catch (IOException e) {
             System.out.println("Error reading file: " + e.getMessage());
         } finally {
-
             /**
              * The only times finally won't be called are:
              *
