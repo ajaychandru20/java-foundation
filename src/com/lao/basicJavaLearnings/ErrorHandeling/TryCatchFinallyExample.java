@@ -9,7 +9,6 @@ public class TryCatchFinallyExample {
      * it is mostly used in closing DB, file close like that...
      **/
 
-
     public static void main(String[] args) {
         FileReader reader = null;
         try {

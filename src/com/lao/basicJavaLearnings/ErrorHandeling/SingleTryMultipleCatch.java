@@ -15,8 +15,6 @@ public class SingleTryMultipleCatch {
             System.out.println(e);
         }
 
-
     }
-
 
 }
